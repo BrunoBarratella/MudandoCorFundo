@@ -14,6 +14,7 @@ body{
     background-color: var(--fundo-padrao);
     color: var(--cor-padrao-fonte);
     font-family: var(--estilo-fonte);
+    text-shadow: 3px 3px 3px var(--fundo2);
 }
 
 h1{
